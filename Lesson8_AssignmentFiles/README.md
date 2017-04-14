@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 14, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Thomas Pescatore)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson introduced us to ajax. It heled us interact with a movie database.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/tpescatore/lesson8_ajax)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Ajax allows the user to interact with data over a server)
+2. (Json is used with ajax to read data over a web server)
+3. (Ajax can receive server data using html.)
